@@ -1,0 +1,37 @@
+TASK 1: Brushing teeth everyday
+FOR each day in a week:
+    WAKE UP
+    GO to bathroom
+    GET toothbrush and toothpaste
+    BRUSH teeth for 2 minutes
+    RINSE mouth
+END FOR
+
+TASK 2: Sending weekly emails or reminders
+FOR each week in a month:
+    OPEN email application
+    COMPOSE new email
+    ADD recipient and message
+    SEND email
+    WAIT until next week
+END FOR
+
+TASK 3: Exercising a set number of times per week
+SET exercise_days = 3
+
+FOR each day in exercise_days:
+    SELECT exercise routine
+    PERFORM exercises
+    RECORD completion
+END FOR
+
+TASK 4: Cooking multiple batches of a recipe
+SET total_batches = 5
+
+FOR batch_number from 1 to total_batches:
+    PREPARE ingredients
+    COOK the recipe
+    PACKAGE or serve the batch
+    CLEAN cooking area
+END FOR
+
