@@ -1,4 +1,3 @@
-```markdown
 # Software Development Coursework Portfolio (2025/26)
 
 ## Disclaimer
@@ -25,8 +24,6 @@ This repository contains the **Software Development Coursework** for the academi
 ---
 
 ## Repository Structure
-
-```
 
 PART_A/
 ├── U3PT1.py
@@ -55,8 +52,6 @@ PART_B/
 ├── main.py
 ├── tasks.json
 └── README.md
-
-```
 
 ---
 
@@ -118,9 +113,7 @@ The **PART_B** folder contains a **task management system** with the following f
 
 ### Example CLI Menu
 
-```
-
-Task Manager
+**Task Manager**
 
 1. Add Task
 2. View Tasks
@@ -129,8 +122,6 @@ Task Manager
 5. Sort by Deadline
 6. Sort by Priority
 7. Save File
-
-````
 
 ---
 
@@ -161,5 +152,3 @@ This project demonstrates:
 - **GitHub**: [https://github.com/meow-20]
 
 ---
-
-````
