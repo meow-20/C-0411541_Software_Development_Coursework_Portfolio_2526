@@ -147,8 +147,8 @@ This project demonstrates:
 
 ## Author
 
-- **Name**: [Bansari Panchal]  
+- **Name**: Bansari Panchal  
 - **Module**: Software Development Coursework 2025/26  
-- **GitHub**: [https://github.com/meow-20]
+- **GitHub**: https://github.com/meow-20
 
 ---
